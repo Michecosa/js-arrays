@@ -21,7 +21,7 @@ for (let i = 0; i < teachers.length; i++) {
     longNames.push(teachers[i]);
   }
 }
-console.log("Teachers array with names of length >= 5:", longNames);
+console.log("Teachers array with names of length >= 5: "+ longNames);
 
 
 // 3. Rimuovi 'Ed' dall'array teachers
@@ -31,7 +31,7 @@ for (let i = 0; i < teachers.length; i++) {
     teachersWithoutEd.push(teachers[i]);
   }
 }
-console.log("Teachers array without Ed:", teachersWithoutEd);
+console.log("Teachers array without Ed: "+ teachersWithoutEd);
 
 
 // 4. Verifica se 'Fabio' è presente nell'array teachers
