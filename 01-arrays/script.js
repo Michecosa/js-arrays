@@ -27,9 +27,11 @@ console.log('Primo insegnante rimosso ('+firstTeacher+')');
 
 // 5. Aggiungi un insegnante di nome 'Vanessa' alla fine dell'array teachers
 const newTeacher = teachers.push('Vanessa');
-console.log('Nuovo insegnante aggiunto: '+teachers[teachers.length - 1]);
+console.log('Nuovo insegnante aggiunto a fine array: '+teachers[teachers.length - 1]);
 
 // 6. Aggiungi un insegnante di nome 'Sarah' all'inizio dell'array teachers
+const newTopTeacher = teachers.unshift('Sarah');
+console.log('Nuovo insegnante aggiunto ad inizio array: '+teachers[0]);
 
 // 7. Trova l'indice dell'insegnante 'Lewis' nell'array teachers
 // e salvalo nella variabile lewisIndex
