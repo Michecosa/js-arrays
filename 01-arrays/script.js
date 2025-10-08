@@ -40,4 +40,5 @@ console.log("L'insegnante Lewis si trova in posizione: "+lewisIndex);
 
 // 8. Verifica se l'array teachers è vuoto
 // e salva il risultato nella variabile isTeachersEmpty
-const isTeachersEmpty = null;
+const isTeachersEmpty = teachers.length === 0;
+console.log("L'array teachers è vuoto? "+isTeachersEmpty);
