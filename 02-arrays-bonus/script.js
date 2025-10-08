@@ -39,7 +39,6 @@ let isFabioPresent = false;
 for (let i = 0; i < teachers.length; i++) {
   if (teachers[i] === "Fabio") {
     isFabioPresent = true;
-    break; // smetti di controllare, tanto l’hai trovato
   }
 }
 
