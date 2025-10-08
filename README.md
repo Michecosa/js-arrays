@@ -14,6 +14,7 @@
 > Una volta padroneggiato questo costrutto, potrete poi “facilitarvi la vita” con i metodi più avanzati.  
 
 🌐 [Check it out! (01-arrays)](https://michecosa.github.io/js-arrays/01-arrays/) 
+<br>
 🌐 [Check it out! (02-arrays-bonus)](https://michecosa.github.io/js-arrays/02-arrays-bonus/) 
 <br>Apri la **console** per vedere l’output!
 
